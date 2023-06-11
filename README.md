@@ -15,13 +15,14 @@ i recommend using the american rom since thats the one this recreation is based 
 ## credits
 
 * KillaBarnee/MegaCd64 - the dudaw 2014 mario model
-* sonicdude143 - textures and testing
+* sonicdude143 - research, textures and testing
 * 91BetaMan - models
-* Holo Mario - title screen model
+* Holo Mario - original title screen model and research
 * aLittleBit64 - textures and models
-* legony - textures and testing
-* josemax - testing
-* joé - testing
+* legony/norwegianlamb - textures and testing
+* Marionova64 - research
+* Josemax64 - testing
+* Joé - testing
 * adimral - testing
 
 ok now heres the usual decomp setup tutorial
